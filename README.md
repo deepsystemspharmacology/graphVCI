@@ -1,5 +1,9 @@
 # Graph Variational Causal Inference
 
+https://arxiv.org/pdf/2210.00116.pdf
+
+This repository implements Graph Variational Causal Inference (graphVCI), a framework that integrates pre-trained relational information into variational causal inference for the prediction and estimation of perturbation effect on gene expressions at single-cell and marginal level.
+
 
 ## Installation
 
